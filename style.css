@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+.parchment {
+  background: #f3e5c0;
+  padding: 20px;
+}
+
+.letter-box {
+  margin-top: 40vh;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+.paw-btn {
+  font-size: 40px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.cat-container img {
+  width: 150px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.gallery img {
+  width: 90%;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.buttons button {
+  padding: 15px 30px;
+  font-size: 18px;
+  margin: 20px;
+}
+
+#no {
+  position: absolute;
+}
